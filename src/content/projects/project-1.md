@@ -1,21 +1,19 @@
 ---
-title: 'EcoBuddy: Sustainable Living App'
-description: EcoBuddy is a mobile app that gamifies sustainable living. Users can set eco-friendly goals, track their carbon footprint, and earn virtual rewards for adopting environmentally conscious habits.
-publishDate: 'Jan 02 2024'
+title: 'Da Nai Wei Wei: Order Beverages Web App'
+description: An online platform for ordering beverages.
+publishDate: 'Nov 01 2022'
 seo:
   image:
     src: '/project-1.jpg'
     alt: Project preview
 ---
 
-![Project preview](/project-1.jpg)
-
-**Note:** This case study is entirely fictional and created for the purpose of showcasing [Dante Astro.js theme functionality](https://justgoodui.com/astro-themes/dante/).
+![Project preview](/project-1.png)
 
 **Project Overview:**
-EcoBuddy is a revolutionary mobile application designed to make sustainable living accessible, engaging, and rewarding. With a focus on gamification and real-world impact, EcoBuddy encourages users to adopt eco-friendly habits, reduce their carbon footprint, and contribute to a healthier planet.
+An online platform for ordering beverages. allowing consumers to search for nearby stores based on their current location. Users can select their preferred flavors and sizes and order the drinks they desire online, saving them the wait time at the venue. For example, a large milk tea with less sugar and ice is often humorously abbreviated in the youth slang (e.g., "Da'an Forest Park" becomes "Ansen", "Sun Yat-sen Memorial Hall" becomes "Guoguan"). Such colloquial abbreviations like "da nai wei wei" are used to appeal to the younger consumer demographic. This is the frontend source code, developed using the React framework.
 
-## Objectives
+## Introduction
 
 1. Develop a user-friendly mobile app that motivates individuals to adopt sustainable practices in their daily lives.
 2. Utilize gamification elements to make sustainable living fun and interactive.
@@ -23,44 +21,34 @@ EcoBuddy is a revolutionary mobile application designed to make sustainable livi
 
 ## Features
 
-1. **EcoScore and Challenges:**
+Features
 
-- Users are assigned an EcoScore based on their sustainable activities and choices.
-- Daily and weekly challenges encourage users to adopt new habits and compete with friends or the community to earn EcoPoints.
+1. **Frontend Features**
 
-2. **Personalized Eco-Goals:**
+1. **User (Consumer)**
 
-- Users can set and track personalized eco-goals, such as reducing plastic usage, conserving water, or choosing eco-friendly transportation.
-- The app provides tips and suggestions to help users achieve their goals.
+- Search for nearby beverage shops based on current location.
+- Choose size, ice, and sugar levels before adding items to the cart, and complete the purchase using ECPay.
+- Modify or delete current products in the cart.
+- View current order items and order history.
+- Update user information.
+- Backend Features
 
-3. **Green Rewards Marketplace:**
+2. **Shop (Vendor)**
 
-- EcoPoints earned through challenges and sustainable actions can be redeemed in a virtual Green Rewards Marketplace.
-- The marketplace offers discounts on eco-friendly products, services, and even contributions to environmental causes.
+- Upload a brand cover photo for the shop.
+- Add, modify, and delete product information.
+- Administrator (Admin)
 
-4. **Community Hub:**
-
-- A community feature allows users to connect, share their eco-friendly achievements, and inspire others.
-- Users can join local eco-groups, organize clean-up events, and collaborate on sustainability projects.
-
-5. **EcoEducator AI Assistant:**
-
-- An AI-powered assistant, EcoEducator, provides personalized eco-tips, facts, and information based on users' preferences and habits.
-- Users can chat with EcoEducator for instant advice on sustainable living.
+3. **Manage all shops**
+- Modify and delete shop information.
 
 ## Technology Stack
 
-- Frontend: React Native for cross-platform mobile app development.
-- Backend: Firebase for real-time data synchronization and user authentication.
-- Database: Firestore for scalable and flexible data storage.
-- AI Integration: Dialogflow for natural language processing and conversation with EcoEducator.
+- Frontend: React Hooks for web app development.
+- Styles: Tailwind CSS
+- Backend: Express for provide frontend api and user authentication.
+- Database: Sequelize data storage.
+- Plugins: React Query, React Router, Redux Toolkit, @brainhubeu/react-carousel, **Express-session** for session login implement, **bcrypt** for password salty setting, **dotenv** for env variable
+- API: Google API（Place & Distance）, Imgur API, ECpay API
 
-## Outcome
-
-EcoBuddy has successfully created a community of environmentally conscious individuals who actively participate in sustainable living practices. The app not only educates and motivates users but also provides tangible rewards for their commitment to a greener lifestyle, fostering a positive impact on the environment.
-
-## Client Testimonial
-
-> We couldn't be happier with the results delivered by Ethan Donovan. From the initial concept discussions to the final product, their responsiveness and collaborative approach were impressive. Our startup's website now stands out, thanks to their creative input and commitment to excellence.
-
-**Note:** This case study is entirely fictional and created for the purpose of showcasing [Dante Astro.js theme functionality](https://justgoodui.com/astro-themes/dante/).

@@ -4,37 +4,36 @@ seo:
   title: About Me
   description: Learn more about the person behind the website and embark on a journey of inspiration and shared experiences.
   image:
-    src: '/about.jpeg'
+    src: '/hero.jpg'
     alt: A person sitting at a desk in front of a computer
 ---
 
-![Alt text for image](/about.jpeg)
+![Alt text for image](/hero.jpg)
 
-**Note!:** This about page is entirely fictional and created for the purpose of showcasing [Dante Astro.js theme functionality](https://justgoodui.com/astro-themes/dante/).
+## Lindsay Liu - Web Developer based in Taipei
 
-## Ethan Donovan - Web Developer based in Estonia
+Greetings! I’m Lindsay, a passionate web developer residing in the vibrant yet bustling city of Taipei, Taiwan.
 
-**Greetings!** I'm Ethan Donovan, a passionate web developer residing in the picturesque landscapes of [Estonia](https://en.wikipedia.org/wiki/Estonia). With a keen eye for design and a love for crafting seamless digital experiences, I bring a unique blend of creativity and technical expertise to the world of web development.
 
 ## Skills and Expertise
 
-I specialize in front-end and back-end development, utilizing the latest technologies to build responsive and user-friendly websites. My proficiency includes **HTML**, **CSS**, **JavaScript**, and frameworks such as **Astro.js** for dynamic and interactive user interfaces. On the server side, I'm well-versed in Node.js and have experience with database management systems like MongoDB.
+My expertise spans both front-end and back-end development, empowering me to create seamless digital experiences. I am proficient in **HTML**, **CSS**, **JavaScript**, and dynamic library like **React.js**, and I am well-versed in server-side technologies such as Node.js with MongoDB for database management.
 
 ## Innovation and Problem-Solving
 
-I thrive on solving complex problems and transforming ideas into functional, elegant websites. Whether it's optimizing performance, implementing new features, or troubleshooting issues, I approach each challenge with enthusiasm and a commitment to delivering high-quality solutions.
+Driven by a passion for solving complex challenges, I transform ideas into functional, visually appealing websites. My approach involves optimizing performance, integrating new functionalities, and troubleshooting with a focus on high-quality outcomes.
 
 ## Global Perspective, Local Impact
 
-Living in Estonia has not only influenced my appreciation for nature and culture but has also shaped my approach to web development. I understand the importance of creating digital solutions that resonate with local audiences while maintaining a global perspective.
+Living in Taipei not only exposes me to a blend of exquisite cuisine and convenient living but also embeds a local yet global perspective in my work. I appreciate the nuances of catering to diverse audiences while maintaining a universal appeal in my digital solutions.
 
 ## Continuous Learning
 
-The dynamic nature of the tech industry inspires me to stay up-to-date with the latest trends and advancements. I'm always eager to expand my skill set and embrace emerging technologies that enhance the functionality and aesthetics of the websites I create.
+I am committed to continuous learning to stay abreast of the latest industry trends and technologies, enhancing the functionality and aesthetics of my projects. I believe in the power of collaboration and prioritize clear communication, ensuring that every project succeeds through mutual understanding and shared goals.
 
 ## Collaboration and Communication
 
-I believe in the power of collaboration and effective communication. Whether working with clients, designers, or fellow developers, I value clear communication to ensure the success of every project.
+If you’re looking to boost your online presence or bring innovative digital ideas to life, I’d love to connect. Reach out for collaboration, consultation, or a friendly chat about the exciting world of web development.
 
 ## Get in Touch
 
